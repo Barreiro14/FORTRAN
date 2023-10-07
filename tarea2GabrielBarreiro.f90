@@ -3,6 +3,7 @@
 !Tarea 2 INF 2120-04
 !Universidad Autonoma de Santo Domingo 
 !segundo semestre del 2023
+!vijirujunozoyuhusemirosinenoxuxaputudifo
 program Tarea2GabrielBarreiro
     integer, dimension(40) :: numeros
     numeros = 0 !Pone el array en 0
